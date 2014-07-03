@@ -7,7 +7,6 @@ authors = [ "Mozilla Servo" ]
 
 name       = "stb_image"
 path       = "src/lib.rs"
-crate_type = [ "staticlib" ]
 
 [dependencies.cmake]
 
